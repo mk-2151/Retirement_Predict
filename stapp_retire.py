@@ -33,7 +33,7 @@ from itertools import chain
 import numpy as np
 import pandas as pd 
 import streamlit as st
-# import matplotlib.pyplot as plt 
+import matplotlib.pyplot as plt 
 import japanize_matplotlib
 import seaborn as sns 
 
